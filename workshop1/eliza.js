@@ -151,6 +151,11 @@ var rules = {
   "~*x I am ~*y": [
     "In what way are you ~y?",
     "Do you want to be ~y?",
+    
+     ],
+  "~*x we can dance if we want to ~*y": [
+    "we can leave your friends behind ~y?",
+   
   ],
   "~*x am I ~*y": [
     "Do you believe you are ~y?",
