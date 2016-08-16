@@ -95,6 +95,13 @@ var rules = {
   "~*x my mother ~*y": [
     "Who else in your family ~y?",
     "Tell me more about your family",
+    ],
+  "~*x you can dance if you want to ~*y": [
+    "can we leave our friends behind? ~y?",
+   
+    ],
+  "~*x cuz our friends dont dance and if they dont dance ~*y": [
+    "then they aint no friends of mine ~y?",
   ],
   "~*x my father ~*y": [
     "Your father?",
